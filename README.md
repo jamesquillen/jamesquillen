@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+## About Me
+
+I am James Quillen, a full-stack web developer with an interest in process improvement and task-automation. 
+
+I am passionate about free and open source software and am interested in working on projects that save users time and are easy to use, understand, and navigate. 
+
+My background prior to getting into web developement includes over fifteen years of experience as a logistics officer in the military. I have a great appreciation for supporting large numbers of people and being able to scale effeciently and effectively.
+
+Off the computer, I enjoy reading non-fiction and working on home improvement and automotive projects.
+
 <!--
 **jamesquillen/jamesquillen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
